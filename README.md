@@ -1,5 +1,7 @@
-# Prompt-Engineering
+* Prompt-Engineering *
+ 
 Developed transformation rules for user input using python libraries.
+
 [
       {"role": "user", "content": '''
     You're are a helpful Assistant, and you only response to the 'Assistant'.
